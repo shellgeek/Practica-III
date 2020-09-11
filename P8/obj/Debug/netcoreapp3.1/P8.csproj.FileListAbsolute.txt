@@ -1,0 +1,13 @@
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.exe
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.deps.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.runtimeconfig.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.runtimeconfig.dev.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.dll
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\bin\Debug\netcoreapp3.1\P8.pdb
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.csprojAssemblyReference.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.AssemblyInfoInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.AssemblyInfo.cs
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.csproj.CoreCompileInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.dll
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.pdb
+D:\CompuCiencias\C#\Practicas\Practica-III\p8\obj\Debug\netcoreapp3.1\P8.genruntimeconfig.cache
