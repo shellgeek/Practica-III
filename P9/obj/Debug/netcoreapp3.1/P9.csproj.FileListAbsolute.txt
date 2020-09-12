@@ -1,0 +1,13 @@
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.exe
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.deps.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.runtimeconfig.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.runtimeconfig.dev.json
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.dll
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\bin\Debug\netcoreapp3.1\P9.pdb
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.csprojAssemblyReference.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.AssemblyInfoInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.AssemblyInfo.cs
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.csproj.CoreCompileInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.dll
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.pdb
+D:\CompuCiencias\C#\Practicas\Practica-III\p9\obj\Debug\netcoreapp3.1\P9.genruntimeconfig.cache

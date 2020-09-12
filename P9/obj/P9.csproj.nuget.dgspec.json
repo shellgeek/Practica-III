@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\P9\\P9.csproj": {}
+    "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\p9\\P9.csproj": {}
   },
   "projects": {
-    "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\P9\\P9.csproj": {
+    "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\p9\\P9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\P9\\P9.csproj",
+        "projectUniqueName": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\p9\\P9.csproj",
         "projectName": "P9",
-        "projectPath": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\P9\\P9.csproj",
+        "projectPath": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\p9\\P9.csproj",
         "packagesPath": "C:\\Users\\raini\\.nuget\\packages\\",
-        "outputPath": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\P9\\obj\\",
+        "outputPath": "D:\\CompuCiencias\\C#\\Practicas\\Practica-III\\p9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raini\\AppData\\Roaming\\NuGet\\NuGet.Config",
