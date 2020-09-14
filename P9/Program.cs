@@ -9,29 +9,49 @@ solicita 3,900 y hay disponibilidad en todos los billetes, el cajero debe dispen
 billetes de mil, 1 de quinientos y 4 de cien.
 Autor: Rainier L. De Jesus Lopez*/
 
-using System;
 
-namespace P9
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace  P1
 {
     class Program
     {
         static void Main(string[] args)
-        {
-         int Bill1000 = 9, Bill500 = 19, Bill100 = 99,  cant=0;
-            Console.WriteLine("digite el monto a separar:");
-            cant = Convert.ToInt16(Console.ReadLine());
-            Bill1000 = cant / 1000;
-            cant = cant - (Bill1000 * 1000);
-            Bill500 = cant / 500;
-            cant = cant - (Bill500 * 500);
-            Bill100 = cant / 100;
-            cant = cant - (Bill100 * 100);
-           
-            Console.WriteLine("billetes de 1000:" + Bill1000);
-            Console.WriteLine("billetes de 500:" + Bill500);
-            Console.WriteLine("billetes de 100:" + Bill100);
-            Console.ReadKey();
+        {       
+                
+            int CantidadDinero;
+            int Billetes1000;
+            int Billetes500;
+            int Billetes100;
+            int Residuo;
 
+            Console.Clear();
+            Console.WriteLine("\t\t********* RETIRO DE EFECTIVO **********\n");
+            Console.Write("\nESTE CAJERO SOLO DISPENSA BILLETES DE [1000] [500] [100]\n");
+            Console.WriteLine("Ingrese la Cantidad de Dinero que desea retirar");
+            CantidadDinero = int.Parse(Console.ReadLine());
+            // Procesamineto
+           
+           
+            Billetes1000 = CantidadDinero / 1000;
+            Residuo = CantidadDinero % 1000;
+
+            Billetes500 = Residuo / 500;
+            Residuo=Residuo % 500;
+
+            Billetes100 = Residuo / 100;
+            Residuo = Residuo % 100;
+
+            //Mostrar resultados
+            Console.Clear();
+            Console.WriteLine("Dinero Solicitado  : {0}", CantidadDinero);
+            Console.WriteLine("Billetes de 1000    : {0}", Billetes1000 );
+            Console.WriteLine("Billetes de 500    : {0}", Billetes500);
+            Console.WriteLine("Billetes de 100     : {0}", Billetes100);
+
+            Console.ReadLine();
         }
     }
 }
