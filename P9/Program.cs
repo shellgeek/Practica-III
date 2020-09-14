@@ -26,13 +26,18 @@ namespace  P1
             int Billetes500;
             int Billetes100;
             int Residuo;
+            //int limite;
+            string banco="";
 
             Console.Clear();
             Console.WriteLine("\t\t********* RETIRO DE EFECTIVO **********\n");
             Console.Write("\nESTE CAJERO SOLO DISPENSA BILLETES DE [1000] [500] [100]\n");
+            Console.WriteLine("Ingrese su banco...:");
+            banco=Console.ReadLine();
             Console.WriteLine("Ingrese la Cantidad de Dinero que desea retirar");
             CantidadDinero = int.Parse(Console.ReadLine());
-            // Procesamineto
+
+      
            
            
             Billetes1000 = CantidadDinero / 1000;
